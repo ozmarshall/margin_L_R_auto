@@ -1,0 +1,45 @@
+
+body {
+    width: 960px;
+    border: springgreen 5px solid;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.p1 {
+    width: 500px;
+    height: 500px;
+    background: rgb(14, 129, 95);
+}
+.p2 {
+    width: 500px;
+    height: 500px;
+    background: red;
+}
+.p3 {
+    width: 500px;
+    height: 500px;
+    background: rgb(27, 14, 63);
+    margin-left: auto;
+    margin-right: auto;
+}
+.p4 {
+    width: 500px;
+    height: 500px;
+    background: rgb(46, 199, 25);
+}
+.p5 {
+    width: 500px;
+    height: 500px;
+    background: rgb(85, 79, 79);
+}
+
+.alinear {
+    justify-content: center;
+    border: red solid 5px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
